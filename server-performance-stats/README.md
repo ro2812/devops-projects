@@ -19,3 +19,5 @@ chmod +x server-performance-stats.sh
 
 - This version is written for macOS.
 - It uses `top`, `sysctl`, `vm_stat`, `df`, `ps`, `sort`, `head`, and `awk`.
+
+Project URL: https://roadmap.sh/projects/server-stats
